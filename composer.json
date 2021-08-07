@@ -13,7 +13,7 @@
         "laravel/framework": "^8.40",
         "laravel/tinker": "^2.5",
         "orchid/blade-icons": "^1.3",
-        "orchid/platform": "^10.11"
+        "orchid/platform": "^10.12"
     },
     "require-dev": {
         "facade/ignition": "^2.5",
